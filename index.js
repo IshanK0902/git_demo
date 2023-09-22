@@ -4,3 +4,5 @@ function Foobar()
 }
 
 console.log(Foobar())
+
+console.log("Can we win this thing?")
